@@ -1,0 +1,17 @@
+D:\System Programming\Semaphore HW\Semaphore HW\bin\Debug\net6.0-windows\Semaphore HW.exe
+D:\System Programming\Semaphore HW\Semaphore HW\bin\Debug\net6.0-windows\Semaphore HW.deps.json
+D:\System Programming\Semaphore HW\Semaphore HW\bin\Debug\net6.0-windows\Semaphore HW.runtimeconfig.json
+D:\System Programming\Semaphore HW\Semaphore HW\bin\Debug\net6.0-windows\Semaphore HW.dll
+D:\System Programming\Semaphore HW\Semaphore HW\bin\Debug\net6.0-windows\Semaphore HW.pdb
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.csproj.AssemblyReference.cache
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore_HW.Form1.resources
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.csproj.GenerateResource.cache
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.AssemblyInfoInputs.cache
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.AssemblyInfo.cs
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.csproj.CoreCompileInputs.cache
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.dll
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\refint\Semaphore HW.dll
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.pdb
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\Semaphore HW.genruntimeconfig.cache
+D:\System Programming\Semaphore HW\Semaphore HW\obj\Debug\net6.0-windows\ref\Semaphore HW.dll
